@@ -57,7 +57,9 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 
 ## 📁 Estructura del Proyecto
 
-text
+A continuación se detalla la organización de los directorios y archivos principales del frontend:
+
+```text
 src/
 ├── assets/          # Recursos estáticos (imágenes, logos, estilos globales)
 ├── components/      # Componentes UI reutilizables (Navbar, Footer)
@@ -67,5 +69,3 @@ src/
 ├── router/          # Configuración de navegación (vacío por ahora)
 ├── App.jsx          # Orquestador principal
 └── main.jsx         # Punto de entrada de React
-
----
