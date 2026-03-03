@@ -49,7 +49,7 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 | Nombre                  | Usuario GitHub     |
 |-------------------------|--------------------|
 | Santiago Zapata Villada | @SantiagoZVcesde   |
-| [Nombre 2]              | @[usuario]         |
+| Santiago Sanchez Rojas  | @[piolin666satan]  |
 | [Nombre 3]              | @[usuario]         |
 | [Nombre 4]              | @[usuario]         |
 
