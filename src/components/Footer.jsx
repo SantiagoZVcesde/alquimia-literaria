@@ -1,5 +1,3 @@
-import ""; //aca va el css del footer
-
 function Footer() {
     return (
         <footer className="footer">

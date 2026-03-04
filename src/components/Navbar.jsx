@@ -1,6 +1,3 @@
-import ""; //aca va el css del footer
-
-
 function Navbar() {
     return (
         <nav className="navbar">
